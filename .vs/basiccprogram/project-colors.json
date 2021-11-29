@@ -1,11 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "39d69169-5626-44f3-be6b-70081c419237": {
-      "ProjectGuid": "39d69169-5626-44f3-be6b-70081c419237",
-      "DisplayName": "basiccprogram",
-      "ColorIndex": 0
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 0
 }
