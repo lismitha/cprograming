@@ -1,0 +1,15 @@
+D:\power\basiccprogram\bin\Debug\net6.0\basiccprogram.exe
+D:\power\basiccprogram\bin\Debug\net6.0\basiccprogram.deps.json
+D:\power\basiccprogram\bin\Debug\net6.0\basiccprogram.runtimeconfig.json
+D:\power\basiccprogram\bin\Debug\net6.0\basiccprogram.dll
+D:\power\basiccprogram\bin\Debug\net6.0\ref\basiccprogram.dll
+D:\power\basiccprogram\bin\Debug\net6.0\basiccprogram.pdb
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.AssemblyInfoInputs.cache
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.AssemblyInfo.cs
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.csproj.CoreCompileInputs.cache
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.dll
+D:\power\basiccprogram\obj\Debug\net6.0\ref\basiccprogram.dll
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.pdb
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.genruntimeconfig.cache
+D:\power\basiccprogram\obj\Debug\net6.0\basiccprogram.csproj.AssemblyReference.cache
